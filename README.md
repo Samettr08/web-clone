@@ -6,7 +6,7 @@
 
 
 
----
+
 
 ###  Proje Hakkında
 
@@ -19,9 +19,7 @@ Piyasadaki kapalı kaynaklı araçların aksine, sistemimiz tamamen güvenlidir.
 İşletim sistemleri Windows, Linux, macOS arasındaki enkod farklarından doğan **Türkçe/özel karakter bozulmalarını ve çökmeleri** engellemek için doğrudan standart giriş/çıkış akışlarını I/O streams optimize eder:
 
 ```python
-import io
-import os
-import sys
+
 
 # Tamamen Optimize Sistemimizi kullanır
 if hasattr(sys.stdout, "buffer"):
