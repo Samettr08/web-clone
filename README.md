@@ -4,12 +4,7 @@
 
 > **Gelişmiş, güvenli ve yüksek uyumlulukla çalışan yeni nesil açık kaynaklı web arşivleme sistemi.**
 
-[![Python Version](https://shields.io)](https://python.org)
-[![License](https://shields.io)](https://opensource.org)
-[![Open Source](https://shields.io)](https://github.com)
-[![Secure Code](https://shields.io)](https://github.com)
 
-</div>
 
 ---
 
