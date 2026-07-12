@@ -562,7 +562,7 @@ def main():
 
     # ── ADIM 1: URL ───────────────────────────────────────────────────────────
     step(1, "Kopyalamak istediginiz sitenin URL'sini girin")
-    print(f"\n  {DIM}Ornek: gamevia.pages.dev   ya da   https://www.example.com{RST}\n")
+    print(f"\n  {DIM}Ornek: https://www.example.com{RST}\n")
     raw = prompt("Site URL")
     while not raw:
         warn("URL bos birakilamaz!")
