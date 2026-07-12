@@ -1,7 +1,7 @@
 @echo off
 chcp 65001 >nul
 set PYTHONUTF8=1
-title Site Klonlayici v3.1
+title Site Klonlayici 
 cls
 echo.
 echo  Baslatiyor...
