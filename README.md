@@ -2,7 +2,7 @@
 
 <div align="center">
 
-> **Gelişmiş, güvenli ve yüksek uyumlulukla çalışan yeni nesil açık kaynaklı web arşivleme sistemi.**
+> **Gelişmiş, güvenli ve yüksek uyumlulukla çalışan yeni nesil açık kaynaklı web klonlama sistemi.**
 
 
 
