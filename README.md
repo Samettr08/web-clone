@@ -12,11 +12,11 @@
 
 Bu araç, web sitelerinin arayüz tasarımlarını ve kaynak kodlarını  yerel bilgisayarınıza kusursuz bir şekilde indirmek için geliştirilmiş **açık kaynaklı bir klonlama motorudur**. Terminal ve sistem bazlı karakter kararsızlıklarını tamamen ortadan kaldıran akıllı bir mimariye sahiptir.
 
-### 🛡️ Neden Güvenilir ve Şeffaf?
+### Güvenilirlik
 
-Piyasadaki kapalı kaynaklı araçların aksine, sistemimiz tamamen şeffaftır. Kod tabanında hiçbir gizli ağ isteği, telemetri veya veri toplama aracı bulunmaz. 
+Piyasadaki kapalı kaynaklı araçların aksine, sistemimiz tamamen güvenlidir. Kod tabanında hiçbir gizli ağ isteği, telemetri veya veri toplama aracı bulunmaz. 
 
-İşletim sistemleri (Windows, Linux, macOS) arasındaki enkod farklarından doğan **Türkçe/özel karakter bozulmalarını ve çökmeleri** engellemek için doğrudan standart giriş/çıkış akışlarını I/O streams optimize eder:
+İşletim sistemleri Windows, Linux, macOS arasındaki enkod farklarından doğan **Türkçe/özel karakter bozulmalarını ve çökmeleri** engellemek için doğrudan standart giriş/çıkış akışlarını I/O streams optimize eder:
 
 ```python
 import io
